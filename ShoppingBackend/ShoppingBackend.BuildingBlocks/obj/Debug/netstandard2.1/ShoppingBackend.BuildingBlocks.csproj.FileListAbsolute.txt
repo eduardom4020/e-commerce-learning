@@ -1,0 +1,10 @@
+C:\Users\emelo\Documents\Estudo\e-commerce-learning\ShoppingBackend\ShoppingBackend.BuildingBlocks\bin\Debug\netstandard2.1\ShoppingBackend.BuildingBlocks.deps.json
+C:\Users\emelo\Documents\Estudo\e-commerce-learning\ShoppingBackend\ShoppingBackend.BuildingBlocks\bin\Debug\netstandard2.1\ShoppingBackend.BuildingBlocks.dll
+C:\Users\emelo\Documents\Estudo\e-commerce-learning\ShoppingBackend\ShoppingBackend.BuildingBlocks\bin\Debug\netstandard2.1\ShoppingBackend.BuildingBlocks.pdb
+C:\Users\emelo\Documents\Estudo\e-commerce-learning\ShoppingBackend\ShoppingBackend.BuildingBlocks\obj\Debug\netstandard2.1\ShoppingBackend.BuildingBlocks.csproj.AssemblyReference.cache
+C:\Users\emelo\Documents\Estudo\e-commerce-learning\ShoppingBackend\ShoppingBackend.BuildingBlocks\obj\Debug\netstandard2.1\ShoppingBackend.BuildingBlocks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emelo\Documents\Estudo\e-commerce-learning\ShoppingBackend\ShoppingBackend.BuildingBlocks\obj\Debug\netstandard2.1\ShoppingBackend.BuildingBlocks.AssemblyInfoInputs.cache
+C:\Users\emelo\Documents\Estudo\e-commerce-learning\ShoppingBackend\ShoppingBackend.BuildingBlocks\obj\Debug\netstandard2.1\ShoppingBackend.BuildingBlocks.AssemblyInfo.cs
+C:\Users\emelo\Documents\Estudo\e-commerce-learning\ShoppingBackend\ShoppingBackend.BuildingBlocks\obj\Debug\netstandard2.1\ShoppingBackend.BuildingBlocks.csproj.CoreCompileInputs.cache
+C:\Users\emelo\Documents\Estudo\e-commerce-learning\ShoppingBackend\ShoppingBackend.BuildingBlocks\obj\Debug\netstandard2.1\ShoppingBackend.BuildingBlocks.dll
+C:\Users\emelo\Documents\Estudo\e-commerce-learning\ShoppingBackend\ShoppingBackend.BuildingBlocks\obj\Debug\netstandard2.1\ShoppingBackend.BuildingBlocks.pdb
